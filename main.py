@@ -6,8 +6,8 @@ from evaluate import evaluate_model
 from visualize import plot_history, plot_confusion_matrix
 
 def main():
-    username = "sarthakbhardwaj0211"
-    key = "cfb38170e77a872808e3b56480731aa6"
+    username = "YOUR_KAGGLE_USERNAME"
+    key = "YOUR_KAGGLE_KEY"
     os.environ['KAGGLE_USERNAME'] = username
     os.environ['KAGGLE_KEY'] = key
 

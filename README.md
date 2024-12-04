@@ -22,8 +22,8 @@ The model was compiled using the Adam optimizer with a learning rate of 1e-5 and
 ## Model Performance and Metrics
 
 ### Training and Validation Performance
-![Training and Validation Accuracy](path_to_accuracy_plot_image)
-![Training and Validation Loss](path_to_loss_plot_image)
+![Training and Validation Accuracy](https://github.com/user-attachments/assets/e13ee7f6-8a1b-474d-b3df-12a7ed1c98e3)
+![Training and Validation Loss](https://github.com/user-attachments/assets/dea29468-ab0a-48e7-907d-49381a2ad091)
 
 ### Evaluation Metrics
 -  Validation Loss : 0.1052456945180893
@@ -32,10 +32,12 @@ The model was compiled using the Adam optimizer with a learning rate of 1e-5 and
 -  Test Accuracy : 0.9629629850387573
 
 ### Classification Report
-![Classification Report](path_to_classification_report_image)
+![Classification Report](https://github.com/user-attachments/assets/d3a4877b-7958-46c2-8417-4929151aff02)
+
 
 ### Confusion Matrix
-![Confusion Matrix](path_to_confusion_matrix_image)
+![Confusion Matrix](https://github.com/user-attachments/assets/6b817e10-ee5c-4f76-9160-9be4c2e19277)
+
 
 ## Bonus Objective
 
